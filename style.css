@@ -1,0 +1,97 @@
+*{
+    box-sizing: border-box;
+}
+.buton1 {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    
+
+}
+
+.buton2 {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+    
+
+}
+.kaufen{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: black;
+
+
+
+
+
+}
+.select {
+    display: flex;
+    gap: 10px;
+    
+}
+.are{
+    width: 30%;
+    margin-left: 550px;
+    margin-top: 15px;
+} 
+.jetzt{
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+.orta{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin-top: 100px;
+    background-color: black;
+    position: relative;
+}
+.icon1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.iconana{
+    display: flex;
+    
+}
+   .end{
+    margin: 50PX;
+    display: flex;
+    gap: 20px;
+    height: 250px;
+    
+   } 
+   .bit{
+    margin: 250px 250px;
+    color: black;
+   }
+   .footorana{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 400px;
+    background-color: rgba(238, 233, 233, 0.991);
+    height: 300px;
+    color: beige;
+    
+   }
+   .footor a {
+    color: black;
+    font-weight: bold;
+   }
+   @media screen and (max-width: 768px;){
+    .navbar-brand{
+        display: none; !important
+    }
+
+   }
+    
+   
